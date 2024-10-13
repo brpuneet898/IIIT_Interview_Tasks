@@ -1,0 +1,11 @@
+image_path,num_objects_orig,num_objects_inpaint,mean_conf_orig,mean_conf_inpaint
+/content/drive/MyDrive/iiith_interview/memes_dataset/img10/01258.png,2,1,0.3840302973985672,0.35662075877189636
+/content/drive/MyDrive/iiith_interview/memes_dataset/img10/01264.png,2,0,0.41827696561813354,0.0
+/content/drive/MyDrive/iiith_interview/memes_dataset/img10/01247.png,2,1,0.6321300566196442,0.43665722012519836
+/content/drive/MyDrive/iiith_interview/memes_dataset/img10/01245.png,1,2,0.44164299964904785,0.4562041312456131
+/content/drive/MyDrive/iiith_interview/memes_dataset/img10/01268.png,1,1,0.7626440525054932,0.6685587167739868
+/content/drive/MyDrive/iiith_interview/memes_dataset/img10/01269.png,2,0,0.33856773376464844,0.0
+/content/drive/MyDrive/iiith_interview/memes_dataset/img10/01243.png,1,0,0.773912250995636,0.0
+/content/drive/MyDrive/iiith_interview/memes_dataset/img10/01256.png,0,0,0.0,0.0
+/content/drive/MyDrive/iiith_interview/memes_dataset/img10/01236.png,12,9,0.5820193762580553,0.49147680070665145
+/content/drive/MyDrive/iiith_interview/memes_dataset/img10/01235.png,1,1,0.8944702744483948,0.30400294065475464

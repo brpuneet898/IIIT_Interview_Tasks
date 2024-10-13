@@ -1,0 +1,6 @@
+Total images: 10
+Avg objects in original: 2.4
+Avg objects after inpainting: 1.5
+Avg confidence in original: 0.5227694007257621
+Avg confidence after inpainting: 0.2713520568278101
+Total objects lost due to captions: 9
